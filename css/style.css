@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.w-100{
+    width: 100%;
+}
+.bg{
+    background-color: #003366;
+}
+.w-1140{
+    width: 1140px;
+    position: relative;
+    margin: auto;
+}
+.w-33{
+    width: 33.33%;
+}
+.flex{
+    display: flex;
+   
+}
+.white{
+    color: white;
+}
+.w-33 ul li{
+    margin: 10px 0px;
+}
+.jus-cen{
+    justify-content:  center;
+}
+.jus-end{
+    justify-content: end;
+    
+}
+.icon{
+    margin-right:10px ;
+}
+.hov:hover{
+    color: orange;
+}
+.w-20{
+    width: 20%;
+}
+.logo{
+    margin-top: 10px;
+}
+
+.w-80{
+    width: 80%;
+}
+.w-80 ul li a{
+    color: black;
+    padding: 30px 10px;
+    display: block;
+}
+.w-80 ul li a:hover{
+    color: orange;
+}
+.font{
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+.w-80 ul li i{
+    margin-left: 5px;
+}
+.w-25{
+    width: calc(25% - 1px);
+    border-right: 1px solid black;
+}
+.menu{
+    width: 100%;
+    background-color:white;
+    position: absolute;
+    left: 0;
+    display: none;
+    z-index: 1000;
+}
+.w-25 ul li a{
+    padding: 5px 0px;
+    margin: 0px;
+    /* display: inline; */
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.w-80 ul li:hover .menu{
+    display: block;
+}
+.w-25 ul li i{
+    margin-right: 5px;
+}
+h3{
+    margin-left: 5px;
+}
+.menu1{
+    width: 200px;
+    background-color:white;
+    display: none;
+    position: absolute;
+
+}
+.menu1 ul li a{
+    padding: 7px;
+    font-weight: bold;
+}
+.w-80 ul li:hover .menu1{
+    display: block;
+}
+.menu2{
+    width: 200px;
+    background-color: white;
+    display: none;
+    position: absolute;
+}
+.w-80 ul li:hover .menu2{
+    display: block;
+}
+.menu2 ul li a{
+    padding: 8px;
+    font-weight: bold;
+}
+.menu2 ul li{
+    padding-left: 5px;
+}
+.menu3{
+    width: 200px;
+    background-color: white;
+    display: none;
+    position: absolute;
+}
+.w-80 ul li:hover .menu3{
+    display: block;
+}
+.menu3 ul li a{
+    padding: 8px;
+    font-weight: bold;
+}
+.subhead{
+    margin-top: 100px;
+    font-weight: lighter;
+}
+.sub-heading{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+.gallary{
+    display: flex;
+    row-gap: 30px;
+    column-gap: 30px;
+    /* justify-content: space-around; */
+    flex-wrap: wrap;
+
+}
+.w-3{
+    width: calc(33.33% - 34px);
+    border: 2px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.w-3 video{
+    width: 100%;
+    height: 250px;
+}
+.sticky{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+
+
+    
+

@@ -1,0 +1,257 @@
+
+
+
+/* Activity.................... */
+
+.flex{
+display: flex;
+flex-direction: column;
+column-gap: 2px ;
+align-items: center;
+}
+
+.dk{
+  font-size:30px;
+}
+
+.w-1140{
+  width: 1140px;
+  /* height: 300px; */
+  /* background-color: yellow; */
+  margin: auto;
+  margin-top: 53px;
+}
+
+.round{
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+  /* column-gap: 15px; */
+  /* flex-wrap: wrap; */
+  /* row-gap: 15px; */
+}
+.my:hover{
+  color:orange
+}
+
+.w-570{
+  width: 560px;
+  /* height: 570px; */
+}
+.w-570 img{
+  width: 520px;
+  height: 580px;
+  padding-left:140px;
+}
+.w-570 p{
+  font-size: 45px;
+  padding-bottom: 40px;
+}
+.w-570 button{
+  font-size: large;
+
+}
+.w-570 button:hover{
+  color:orange
+}
+.text{
+  font-size: 20px;
+  font-family: serif;
+}
+
+.h1{
+  background-color:#916C3D;
+}
+
+/* Header.............. */
+
+*{
+padding: 0;
+margin: 0;
+}
+.bbb{
+  position: sticky;
+}
+
+.aaa a{
+  color: white;
+}
+.aaa a:hover{
+  color:skyblue
+}
+
+#hk{
+font-family: "Open Sans", sans-serif;
+padding-top: 55px;
+font-size: 48px;
+line-height: 26px;
+font-weight: bolder;
+color: #000000;
+
+}
+
+#hk1{
+padding-top: 30px;
+}
+
+#hk2{
+padding-top: 20px;
+font-family: Open Sans;
+font-size: x-large;
+
+}
+
+
+#photo{
+  margin-left: -150px;
+}
+
+.flex{
+display: flex;
+flex-direction: column;
+column-gap: 2px ;
+align-items: center;
+}
+
+/* Card............ */
+.flec{
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  column-gap: 30px;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+/* Oferr........ */
+.w-380{
+  width: calc(33.33% - 50px);
+  /* float: left; */
+  /* margin: 10px; */
+  border: 1px solid black;
+  
+  
+}
+.fx{
+  display: flex;
+  justify-content: space-around;
+
+}
+.container{
+  background-color: antiquewhite;  
+  width: 100%;
+}
+
+.pi{
+      padding-top: 80px;
+}
+.w-380 pre{
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 400;
+}
+.w-380 p{
+  padding-left: 40px;
+  padding-bottom: 80px;
+  font-size: 22px;
+  font-weight: bold;
+  color:darkgoldenrod;
+}
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+
+.w-1140{
+  width: 1140px;
+  /* height: 300px; */
+  /* background-color: yellow; */
+  margin: auto;
+  margin-top: 53px;
+}
+.w-20{
+  width: calc(33.33% - 17px);
+  /* float: left; */
+  /* margin: 10px; */
+  border: 2px solid black;
+  border-radius: 15px;
+  overflow: hidden;
+  
+}
+.w-20 img{
+  width: 100%;
+  height: 250px;
+  
+  
+}
+.w-20 h2{
+  height: 50px;
+  margin-left: 25px;
+  color: #051901;
+}
+.w-20 h2:hover{
+  color: orange;
+}
+
+/* about.............. */
+
+.w-blue :hover{
+  width: 320px;
+  height: 320px;
+}
+
+
+
+ 
+
+
+/* fotter..... */
+
+.footer{
+  width: 100%;
+  background-color:#916C3D;
+  height: 300px;
+  margin-top: 80px;
+
+}
+.flexhd{
+  display: flex;
+  flex-direction: row;
+  column-gap: 2px ;
+  align-items: center;
+
+}
+.w-33{
+  width: 33.33%;
+}
+.pic{
+  height:95px;
+  width: 130px;
+  background-image: url('https://perfumesquare.in/wp-content/uploads/2024/03/logo-new-perfume.png');
+  margin-left: 80px;
+  margin-top: 50px;
+
+}
+
+
+#kk{
+  margin-left: 70px;
+  margin-top: 10px;
+}
+.col{
+  color: pink;
+}
+
+.pa:hover{
+color:orange;
+
+}
